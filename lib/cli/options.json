@@ -1,60 +1,60 @@
 {
   "h": {
     "long": "help",
-    "desc": "Display this help text.",
+    "desc": "Mostra este texto de ajuda.",
     "type": "Boolean",
     "modal": true
   },
   "q": {
     "long": "quiet",
-    "desc": "Reduce output to errors only",
+    "desc": "Mostra somente erros na saída do console.",
     "type": "Boolean"
   },
   "v": {
     "long": "version",
-    "desc": "Print the version.",
+    "desc": "Informa a versão.",
     "type": "Boolean",
     "modal": true
   },
   "x": {
     "long": "exclude",
-    "desc": "File exclusion regex",
+    "desc": "Regex de exclusão de arquivo",
     "type": "String"
   },
   "d": {
     "long": "dir",
-    "desc": "The output directory",
+    "desc": "Diretório onde o relatório será criado",
     "type": "String",
     "required": true
   },
   "r": {
     "long": "recurse",
-    "desc": "Recursively search directories",
+    "desc": "Varre diretórios recursivamente",
     "type": "Boolean"
   },
   "l": {
     "long": "jshint",
-    "desc": "Specify a jshintrc file for JSHint linting",
+    "desc": "Define um arquivo jshintrc com regras de análise do JSHint",
     "type": "String"
   },
   "e": {
     "long": "eslint",
-    "desc": "Specify a eslintrc file for ESLint linting",
+    "desc": "Define um arquivo eslintrc com regras de análise do ESLint",
     "type": "String"
   },
   "t": {
     "long": "title",
-    "desc": "Title of the report",
+    "desc": "Título do relatório",
     "type": "String"
   },
   "D": {
     "long": "date",
-    "desc": "Time to use as the report date (seconds, > 9999999999 assumed to be ms)",
+    "desc": "Tempo para usar como a data do relatório (segundos, > 9999999999 assume ser em ms)",
     "type": "String"
   },
   "n": {
     "long": "noempty",
-    "desc": "Skips empty lines from line count",
+    "desc": "Não considera linhas vazias ao contar as linhas de código",
     "type": "Boolean"
   }
 }
