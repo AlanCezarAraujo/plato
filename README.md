@@ -124,3 +124,7 @@ Licensed under the MIT license.
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/es-analysis/plato/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/AlanCezarAraujo/plato/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
